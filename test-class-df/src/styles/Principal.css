@@ -1,6 +1,6 @@
 .main{
-    max-width: 1200px;
-    margin: 20px auto;
+    max-width: 1500px;
+    margin: 5px auto;
     display: flex;
     justify-content: space-between;
     min-height: 80vh; 
@@ -11,7 +11,8 @@
     flex-direction: center;
     justify-content: center;
     border-radius: 10px;
-    width: 25%;
+    align-items: center;
+    width: 35%;
     background: #2e5adf;
   }
   
@@ -19,7 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 64%;
+    width: 64.5%;
     border-radius: 10px;
     background: #2e5adf;
   }
